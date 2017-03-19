@@ -1,0 +1,50 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    Viewing the diff between two versions of file helps to find bug as it can 
+help to find out which lines were modified or added or removed.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    Having an entire history of a file can help to switch easily to the previous
+version of a file or find bug using history of file or to compare to versions of 
+the same file.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Pros: 1. Manually choosing when to create a commit can be useful as it will
+reduce the number of unnecessary commits.
+2. Bugs can be found out easily
+
+Cons: 1. There might be chances that sometimes a programmer might forget to 
+commit and later if the programmer wants to find out what changes were made,
+the might have to later spend time figuring out where the changes were made.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Git allow saving multiple files in one commit because sometimes a change in 
+a file should be seen in the other files as well which are related to the file 
+changed. This feature helps the user by reducing time to make changes in all the 
+related files and thus it helps in saving time.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    git log is used to see the different commits on a file and also provides 
+commit ids that can be used to check the changes that are been made between
+commits using the git diff command.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    Version control can prove to be really helpful as the programmer has no longer 
+have to worry about the bugs that are introduced during the process of modification.
+Switching between the versions of a file due to version control is easy and the programmer 
+thus will be more confident as he knows that all the versions of a file are present. 
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    I would like to code a project 
